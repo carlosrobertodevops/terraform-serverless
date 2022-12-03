@@ -2,5 +2,20 @@
   "yaml.schemas": {
     "https://raw.githubusercontent.com/lalcebo/json-schema/master/serverless/reference.json": "file:///Users/carlosroberto/Documents/Projects/terraform-serverless/api/serverless.yml"
   },
-  "cSpell.language": "pt,pt-BR"
+  "cSpell.language": "pt,pt-BR",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
+  //"terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "editor.formatOnSave": false,
+  "editor.renderWhitespace": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint":true
+  },
+  "cSpell.words": [
+    "Prismic"
+  ],
+  "editor.guides.indentation": true,
+  "editor.tabSize": 2
 }
